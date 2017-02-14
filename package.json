@@ -1,0 +1,19 @@
+{
+  "name": "lnrecall",
+  "main": "./lib/lnrecall",
+  "version": "0.0.1",
+  "description": "A simple 2 button -- line number -- mark and recall.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "lnrecall:recall",
+		"atom-workspace": "lnrecall:mark"
+  },
+  "repository": "https://github.com/FluidCoding/lnrecall",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

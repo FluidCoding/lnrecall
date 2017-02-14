@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Recall Line",
+        "command": "lnrecall:recall"
+      },
+			{
+				"label": "Mark Line",
+				"command": "lnrecall:mark"
+			}
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "lnrecall",
+          "submenu": [
+            {
+              "label": "Recall Line",
+              "command": "lnrecall:recall"
+            },
+						{
+							"label": "Mark Line",
+							"command": "lnrecall:mark"
+						}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-m": "lnrecall:mark",
+		"ctrl-alt-k": "lnrecall:recall"
+  }
+}

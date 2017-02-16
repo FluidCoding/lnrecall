@@ -3,7 +3,7 @@
   "main": "./lib/lnrecall",
   "version": "0.0.2",
   "description": "A simple 2 button -- line number -- mark and recall.",
-  "keywords": [],
+  "keywords": ["bookmark", "line", "recall", "mark", "save", "number"],
   "activationCommands": {
     "atom-workspace": "lnrecall:mark"
   },

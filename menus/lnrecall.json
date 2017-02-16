@@ -5,10 +5,10 @@
         "label": "Recall Line",
         "command": "lnrecall:recall"
       },
-			{
-				"label": "Mark Line",
-				"command": "lnrecall:mark"
-			}
+      {
+        "label": "Mark Line",
+        "command": "lnrecall:mark"
+      }
     ]
   },
   "menu": [
@@ -22,10 +22,10 @@
               "label": "Recall Line",
               "command": "lnrecall:recall"
             },
-						{
-							"label": "Mark Line",
-							"command": "lnrecall:mark"
-						}
+            {
+              "label": "Mark Line",
+              "command": "lnrecall:mark"
+            }
           ]
         }
       ]
